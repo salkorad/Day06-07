@@ -1,0 +1,72 @@
+.gallery{
+    width: 1000px;
+    display: flex;
+    margin: 0px auto;
+}
+ h2 {
+    text-align: center;
+}
+
+.prvi_red {
+    margin: 20px 20px 20px 0px;
+    flex-grow: 1;
+    width: 330px;
+    height: 450px;
+}
+.prvi_red img{
+    width: 300px;
+    height: 250px;
+    margin: 20px 20px 20px 0px;
+}
+.prvi_red p{
+    width: 280px;
+    text-align: justify;
+    font-size: 12px;
+    margin: 15px 5px;
+}
+.prvi_red h4 {
+    margin: 15px 5px;
+    color: gray;
+}
+.drugi_red {
+    margin: 20px 20px 20px 0px;
+    flex-grow: 1;
+    width: 330px;
+    height: 450px;
+}
+.drugi_red img{
+    width: 300px;
+    height: 250px;
+    margin: 20px 20px 20px 0px;
+}
+.drugi_red p{
+    width: 280px;
+    text-align: justify;
+    font-size: 12px;
+    margin: 15px 5px;
+}
+.drugi_red h4 {
+    margin: 15px 5px;
+    color: gray;
+}
+.treci_red {
+    margin: 20px 20px 20px 0px;
+    flex-grow: 1;
+    width: 330px;
+    height: 450px;
+}
+.treci_red img{
+    width: 300px;
+    height: 250px;
+    margin: 20px 20px 20px 00px;
+}
+.treci_red p{
+    width: 280px;
+    text-align: justify;
+    font-size: 12px;
+    margin: 15px 5px;
+}
+.treci_red h4 {
+    margin: 15px 5px;
+    color: gray;
+}
